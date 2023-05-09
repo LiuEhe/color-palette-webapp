@@ -5,6 +5,7 @@
 # 项目运行效果截图
 
 ![项目运行效果截图](TODO: 此处放截图文件名)
+https://github.com/LiuEhe/color-palette-webapp/blob/main/result_picture/Windows.jpg
 
 # 功能
 
