@@ -6,7 +6,7 @@
 
 ![项目运行效果截图](TODO: 此处放截图文件名)
 
-<img src="https://github.com/LiuEhe/color-palette-webapp/blob/main/result_picture/Windows.jpg" width="200" height="200"><img src="https://github.com/LiuEhe/color-palette-webapp/blob/main/result_picture/Windows.jpg" width="200" height="200">
+<img src="https://github.com/LiuEhe/color-palette-webapp/blob/main/result_picture/Windows.jpg" width="200" height="200"><img src="https://github.com/LiuEhe/color-palette-webapp/blob/main/result_picture/Linux.jpg" width="200" height="200">
 
 # 功能
 
