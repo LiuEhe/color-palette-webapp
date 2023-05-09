@@ -5,7 +5,8 @@
 # 项目运行效果截图
 
 ![项目运行效果截图](TODO: 此处放截图文件名)
-https://github.com/LiuEhe/color-palette-webapp/blob/main/result_picture/Windows.jpg
+
+<img src="https://github.com/LiuEhe/color-palette-webapp/blob/main/result_picture/Windows.jpg" width="200" height="200"><img src="https://github.com/LiuEhe/color-palette-webapp/blob/main/result_picture/Windows.jpg" width="200" height="200">
 
 # 功能
 
@@ -24,7 +25,7 @@ https://github.com/LiuEhe/color-palette-webapp/blob/main/result_picture/Windows.
 
 1. 克隆或下载此项目。
 2. 在项目根目录下运行`python app.py`来启动应用程序。
-3. 打开浏览器，访问`http://localhost:5000/`来查看和使用应用程序。
+3. 打开浏览器，访问`http://127.0.0.1:5001/`来查看和使用应用程序。
 
 # 注意
 
